@@ -44,7 +44,8 @@ require(ggplot2)
 qplot(wt, mpg, data = mtcars)
 ```
 
----  Viudeo
+
+--- .class #id
 
 ## Video
 

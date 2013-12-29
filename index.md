@@ -48,7 +48,8 @@ qplot(wt, mpg, data = mtcars)
 <img src="assets/fig/simple-plot.png" title="plot of chunk simple-plot" alt="plot of chunk simple-plot" style="display: block; margin: auto;" />
 
 
----  Viudeo
+
+--- .class #id
 
 ## Video
 
