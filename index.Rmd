@@ -31,9 +31,9 @@ The stupid stuff is hjere
 
 --- #montreal bg:url(http://blogit.jamk.fi/newyorkminute/files/2012/03/Blog-Montreal2.jpg)
 
- ## Montreal by Night Time
+## Montreal by Night Time
 
----  plot #simple-plot
+--- plot #simple-plot
 
 ## A Simple Plot ##
 
