@@ -1,0 +1,11 @@
+base
+datasets
+devtools
+ggplot2
+graphics
+grDevices
+methods
+slidify
+slidifyLibraries
+stats
+utils

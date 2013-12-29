@@ -20,7 +20,8 @@ mode        : selfcontained # {standalone, draft}
 
 ## Slide 2
 Stupid Test test
-kgfkdfkdkafd
+
+ kgfkdfkdkafd
 
 --- .class #id
 
@@ -28,4 +29,27 @@ kgfkdfkdkafd
 
 The stupid stuff is hjere
 
+--- #montreal bg:url(http://blogit.jamk.fi/newyorkminute/files/2012/03/Blog-Montreal2.jpg)
 
+ ## Montreal by Night Time
+
+---  plot #simple-plot
+
+## A Simple Plot ##
+
+Let us create a simple scatterplot.
+
+
+```r
+require(ggplot2)
+qplot(wt, mpg, data = mtcars)
+```
+
+<img src="assets/fig/simple-plot.png" title="plot of chunk simple-plot" alt="plot of chunk simple-plot" style="display: block; margin: auto;" />
+
+
+--- Viudeo
+
+<iframe width="420" 
+height="315" src="//www.youtube.com/embed/I95GOmLc7TA" 
+frameborder="0" allowfullscreen></iframe>
